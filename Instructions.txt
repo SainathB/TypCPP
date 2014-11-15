@@ -1,4 +1,4 @@
 Install python
-move pygame folder and TypCPP.pyc to Python27/Lib folder
+move pygame folder and TypCPP.pyc to Python27/Lib folder (move pygame only if it is not already there)
 Run the following command.
 python -m TypCPP
